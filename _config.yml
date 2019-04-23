@@ -86,7 +86,7 @@ rss:
 
 # Specify the date when the site was setup
 #since: 2015
-since: 2017
+since: 2019
 # icon between year and author @Footer
 authoricon: heart
 
@@ -232,7 +232,7 @@ social_icons:
 
   
 # reward
-reward_comment: 人该是自己生活的主宰，而不是别人手里的行货
+reward_comment: 勤练带来力量
 alipay: /images/reward_image/alipay-reward-image.jpg
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
@@ -259,17 +259,17 @@ creative_commons: by-nc-sa
 
 sidebar:
   # Sidebar Position, available value: left | right
-  #position: left
-  position: right
+  position: left
+  # position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  #display: post
-  #display: always
-  display: hide
+  display: post
+  # display: always
+  # display: hide
   #display: remove
 
   # Sidebar offset from top menubar in pixels.
@@ -291,12 +291,12 @@ sidebar:
   #Title: http://example.com/
 links_title: 推荐阅读
 links:
-  阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
-  R的极客理想系列: http://blog.fens.me/series-r/
-  谢益辉: https://yihui.name/
-  解螺旋的矿工: http://www.huangshujia.me/
-  GuangchuangYu: https://github.com/GuangchuangYu
-  生信技能树: https://vip.biotrainee.com/
+  # 阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
+  # R的极客理想系列: http://blog.fens.me/series-r/
+  # 谢益辉: https://yihui.name/
+  # 解螺旋的矿工: http://www.huangshujia.me/
+  # GuangchuangYu: https://github.com/GuangchuangYu
+  # 生信技能树: https://vip.biotrainee.com/
 
 # ---------------------------------------------------------------
 # Post Settings
